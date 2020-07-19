@@ -1,4 +1,4 @@
-# Online-Pizza-Ordering-System
+# Online-Pizza-Ordering-Syste
 
 About Project:
 
